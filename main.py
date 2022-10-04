@@ -32,5 +32,3 @@ for filename in os.listdir('./cogs'):
 # #keep_alive()
 
 bot.run(config['token'])
-# bot.run('NjkzNDU0MTM0ODA3ODg3OTkz.Xn9TfQ.rUyeIUTviVgsuproy6rkCJ1bt-g')
-# bot.run('NzU5NjQ1MzkxODkyNTEyNzc4.X3Ag5g.kx1zWnWie1oiO_SC2PPnej9RYxo')
